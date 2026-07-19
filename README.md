@@ -1,18 +1,23 @@
 <div align="center">
-  <img src="main.gif" width="120" style="border-radius: 50%; margin-bottom: 15px;" alt="David Arrobo" />
+
+  <!-- ENCABEZADO LOFI-KAWAII -->
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Lofi Header Banner" />
   
-  <h1>Hola, soy David Arrobo 👋</h1>
-  <p><b>Full-Stack Developer | IT & Hardware Technician | Music Producer</b></p>
+  <img src="main.gif" width="110" style="border-radius: 50%; border: 3px solid #ffb3ba; margin-top: -50px;" alt="David Arrobo" />
   
+  <h1 style="color: #ffb3ba; font-family: 'Arial Rounded MT Bold', sans-serif;">Hola, soy David Arrobo 👋</h1>
+  <p style="font-size: 1.1em; color: #b0e0e6;"><b>Full-Stack Dev 💻 | IT Technician 🛠️ | Music Producer 🎹</b></p>
+  
+  <!-- BOTONES MINIMALISTAS -->
   <p>
     <a href="mailto:edv.arrobo@yavirac.edu.ec">
-      <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF9D" alt="Email" />
+      <img src="https://img.shields.io/badge/Email-ffb3ba?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
     </a>
     <a href="https://github.com/Edvwq">
-      <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF9D" alt="GitHub" />
+      <img src="https://img.shields.io/badge/GitHub-b0e0e6?style=flat-square&logo=github&logoColor=333" alt="GitHub" />
     </a>
     <a href="https://smartdrill.net">
-      <img src="https://img.shields.io/badge/Smart_Drill-00FF9D?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Smart Drill" />
+      <img src="https://img.shields.io/badge/Smart_Drill-ffdfba?style=flat-square&logo=googlechrome&logoColor=333" alt="Smart Drill" />
     </a>
   </p>
 </div>
@@ -20,37 +25,38 @@
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00FF9D&center=true&vCenter=true&width=500&lines=Construyendo+software+escalable;Especialista+en+Hardware+y+Firmware;Desarrollador+Next.js+%7C+NestJS+%7C+Python;Productor+de+Música+Electrónica" alt="Typing SVG" />
+  <!-- TYPING SVG CON ESTILO SOFT -->
+  <img src="https://readme-typing-svg.demolab.com?font=Varela+Round&weight=600&size=20&duration=3000&pause=1000&color=b0e0e6&center=true&vCenter=true&width=500&lines=Construyendo+software+con+☕;Especialista+en+Hardware+%26+Firmware;Next.js+%7C+NestJS+%7C+Python;Produciendo+ritmos+Lofi+%26+Chill" alt="Typing SVG" />
 </div>
 
 ---
 
-## 🚀 Proyectos Destacados
+<h2 style="color: #ffb3ba; text-align: center;">🚀 Proyectos Destacados</h2>
 
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="50%">
-        <h3>🛠️ Smart Drill</h3>
-        <p>Plataforma multimarca para servicio técnico, diagnóstico experto y recuperación de firmware.</p>
-        <p><i>Next.js, NestJS, TypeORM, PostgreSQL</i></p>
+      <td align="center" width="50%" style="border: 1px solid #b0e0e6; border-radius: 10px; padding: 10px;">
+        <h3 style="color: #ffdfba;">🛠️ Smart Drill</h3>
+        <p>Servicio técnico, diagnóstico y recuperación de firmware.</p>
+        <p><small><i>Next.js, NestJS, TypeORM, PostgreSQL</i></small></p>
       </td>
-      <td align="center" width="50%">
-        <h3>📊 Quick Budget</h3>
-        <p>Aplicación móvil con paneles animados para la gestión eficiente de presupuestos personales.</p>
-        <p><i>Python, KivyMD</i></p>
+      <td align="center" width="50%" style="border: 1px solid #b0e0e6; border-radius: 10px; padding: 10px;">
+        <h3 style="color: #ffffba;">📊 Quick Budget</h3>
+        <p>App móvil para gestión de presupuestos personales.</p>
+        <p><small><i>Python, KivyMD</i></small></p>
       </td>
     </tr>
     <tr>
-      <td align="center" width="50%">
-        <h3>⚙️ Sistema de Gestión</h3>
-        <p>Plataforma institucional con arquitectura robusta para la gestión interna de proyectos.</p>
-        <p><i>React, Laravel</i></p>
+      <td align="center" width="50%" style="border: 1px solid #b0e0e6; border-radius: 10px; padding: 10px;">
+        <h3 style="color: #baffc9;">⚙️ Sistema de Gestión</h3>
+        <p>Plataforma institucional para gestión interna.</p>
+        <p><small><i>React, Laravel</i></small></p>
       </td>
-      <td align="center" width="50%">
-        <h3>♻️ Upcycling Institucional</h3>
-        <p>Campaña ecológica enfocada en la transformación de residuos en objetos funcionales.</p>
-        <p><i>Liderazgo & Gestión de Proyectos</i></p>
+      <td align="center" width="50%" style="border: 1px solid #b0e0e6; border-radius: 10px; padding: 10px;">
+        <h3 style="color: #bae1ff;">♻️ Upcycling</h3>
+        <p>Campaña ecológica de transformación de residuos.</p>
+        <p><small><i>Liderazgo & Gestión</i></small></p>
       </td>
     </tr>
   </table>
@@ -58,35 +64,33 @@
 
 <br>
 
-## 💻 Tech Stack & Herramientas
-<!-- Aquí cargan tus tarjetas animadas -->
+<h2 style="color: #b0e0e6; text-align: center;">💻 Tech Stack</h2>
+<!-- Iconos de tecnologías con estilo suave -->
 <div align="center">
-  <img src="tech-cards.svg" alt="Animated Tech Cards" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nestjs,python,laravel,postgres&theme=light" alt="Tech Stack" />
 </div>
 
 <br>
 
-## 🎹 Music Production
-<!-- Aquí carga tu piano animado -->
+<h2 style="color: #ffb3ba; text-align: center;">🎹 Music Production</h2>
 <div align="center">
-  <img src="piano.svg" alt="Animated Piano" />
+  <img src="piano.svg" alt="Animated Piano" width="300" />
 </div>
 
 <div align="center">
   <br>
-  <p><i>Escucha uno de mis últimos tracks (Clic en la imagen) 👇</i></p>
-  <!-- Reemplaza el enlace de href con el link real de tu canción en Spotify o SoundCloud -->
+  <p><i>Escucha mi último track lofi 👇</i></p>
   <a href="https://open.spotify.com/track/TU_CANCION_AQUI">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=TU_USUARIO_DE_SPOTIFY&cover_image=true&theme=novatorem&show_offline=false&background_color=0D1117&interchange=true" alt="Spotify Player" />
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=TU_USUARIO_DE_SPOTIFY&cover_image=true&theme=compact&show_offline=false&background_color=fdfdff&interchange=true" alt="Spotify Player" />
   </a>
 </div>
 
 <br>
 
-## 📈 GitHub Activity & Contributions
+<h2 style="color: #ffdfba; text-align: center;">📈 Actividad</h2>
 
 <div align="center">
-  <!-- Contribution Snake Animation -->
+  <!-- SE MANTIENE LA SERPIENTE -->
   <picture>
     <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg">
   </picture>
