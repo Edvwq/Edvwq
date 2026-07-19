@@ -1,70 +1,91 @@
 <div align="center">
-  <img src="main.gif" width="160" style="border-radius: 12px; margin-bottom: 20px;" alt="David Arrobo" />
+  <img src="main.gif" width="120" style="border-radius: 50%; margin-bottom: 10px;" alt="David Arrobo" />
   
-  <h1><b>DAVID ARROBO</b></h1>
-  <p><b>Full Stack Software Engineer | IT Hardware Technician | Electronic Music Producer</b></p>
-  <p><i>"Writing code, diagnosing hardware, and sequencing beats."</i></p>
-
-  <br>
-
-  <a href="https://smartdrill.net">
-    <img src="https://img.shields.io/badge/FLAGSHIP_BUSINESS-SMART_DRILL-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Smart Drill" />
+  <h1>DAVID ARROBO</h1>
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=18&pause=1500&color=888888&center=true&vCenter=true&width=600&lines=Software+Engineer;Hardware+IT+Technician;Electronic+Music+Producer" alt="Typing SVG" />
   </a>
+  <br>
+  <p><i>Building digital systems, diagnosing complex hardware, and producing soundscapes.</i></p>
 </div>
 
 <br>
 
----
+## ✦ Core Technologies
+> *Hover over the icons for animations. Swipe horizontally if on mobile.*
 
-## 👨‍💻 The Architect & The Technician
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=ts,js,nextjs,nestjs,nodejs,postgres,angular,laravel,python,swift,apple,figma,idea,html,css&perline=15" alt="Technologies" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
-I thrive at the intersection of software and hardware. Currently studying Software Development at **Instituto Superior Tecnológico Yavirac**, I build scalable full-stack applications while simultaneously running my own technical service business in the south of Quito. 
+<br>
 
-Whether it's writing clean code for a web platform, micro-soldering a smartphone motherboard, flashing firmware, or producing an electronic track in my digital audio workstation, I am driven by the process of building, fixing, and creating.
+## ✦ Featured Work & Businesses
+> *Large cards layout. Scroll horizontally to explore from side to side.*
 
----
+<div align="center">
+  <table>
+    <tr>
+      <!-- SMART DRILL CARD -->
+      <td align="center" style="padding: 10px;">
+        <a href="https://smartdrill.net">
+          <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=24&pause=1000&color=FFFFFF&background=0A0A0A&center=true&vCenter=true&width=340&height=180&lines=📱+SMART+DRILL;Tech+Repair+Platform;Hardware+%26+Firmware" alt="Smart Drill" style="border-radius: 10px;" />
+        </a>
+      </td>
+      
+      <!-- DIMFLIX CARD -->
+      <td align="center" style="padding: 10px;">
+        <a href="https://github.com/DIMFLIX/DIMFLIX">
+          <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=24&pause=1000&color=FFFFFF&background=1A1A1A&center=true&vCenter=true&width=340&height=180&lines=🎬+DIMFLIX;Streaming+Ecosystem;Next.js+%2B+Node.js" alt="DIMFLIX" style="border-radius: 10px;" />
+        </a>
+      </td>
+      
+      <!-- THENOLLE CARD -->
+      <td align="center" style="padding: 10px;">
+        <a href="https://github.com/thenolle/thenolle">
+          <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=24&pause=1000&color=FFFFFF&background=0A0A0A&center=true&vCenter=true&width=340&height=180&lines=🎨+THENOLLE;Creative+Portfolio;Angular+%2B+Laravel" alt="thenolle" style="border-radius: 10px;" />
+        </a>
+      </td>
+      
+      <!-- DE SNACK A ESTILO CARD -->
+      <td align="center" style="padding: 10px;">
+        <a href="#">
+          <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=24&pause=1000&color=FFFFFF&background=1A1A1A&center=true&vCenter=true&width=340&height=180&lines=♻️+UPCYCLING;De+Snack+a+Estilo;Campus+Initiative" alt="Eco Initiative" style="border-radius: 10px;" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
-## ⚙️ Core Arsenal & Workflow
+<br>
 
-### 🌐 Web & Backend Architecture
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,nextjs,nestjs,nodejs,postgres,angular,laravel,python,html&perline=10" alt="Core Stack" />
-  </a>
-</p>
+## ✦ The Profile
 
-### 📱 Mobile, 3D & Hardware Repair Skills
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=swift,apple,figma,idea&perline=5" alt="Learning Stack" />
-  </a>
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Xcode-000000?style=flat-square&logo=xcode&logoColor=white" alt="Xcode" />
-  <img src="https://img.shields.io/badge/KivyMD-000000?style=flat-square&logo=python&logoColor=white" alt="KivyMD" />
-  <img src="https://img.shields.io/badge/Spline_3D-000000?style=flat-square&logo=spline&logoColor=white" alt="Spline 3D" />
-  <img src="https://img.shields.io/badge/Firmware_Flashing-000000?style=flat-square&logo=android&logoColor=white" alt="Firmware Flashing" />
-  <img src="https://img.shields.io/badge/Component--Level_Diagnostics-000000?style=flat-square&logo=ifixit&logoColor=white" alt="Hardware Diagnostics" />
-</p>
+I am a Software Development student at **Instituto Superior Tecnológico Yavirac** (Quito, Ecuador) with a specialized dual-profile. 
 
----
+While my code builds digital solutions across web and mobile platforms (exploring **Swift**, **KivyMD**, and interactive **Spline 3D** environments), my hands are frequently at work repairing motherboards, flashing firmware, and executing component-level diagnostics. 
 
-## 🚀 Featured Projects & Initiatives
+My flagship service, **Smart Drill**, is the bridge between these two worlds: a multi-brand technology repair business backed by a robust web platform.
 
-* 📱 **[Smart Drill](https://smartdrill.net)** — My specialized multi-brand tech service platform. Providing top-tier hardware diagnostics and advanced tech repairs.
-* 🎬 **[DIMFLIX](https://github.com/DIMFLIX/DIMFLIX)** — Entertainment streaming platform built with Next.js & Node.js.
-* 🎨 **[thenolle](https://github.com/thenolle/thenolle)** — Creative personal portfolio utilizing Angular & Laravel.
-* ♻️ **De Snack a Estilo** — Environmental upcycling campaign installing interactive bins at the Yavirac campus.
-
----
-
-## 📫 Let's Connect
+<br>
 
 <div align="center">
   <a href="mailto:edv.arrobo@yavirac.edu.ec">
-    <img src="https://img.shields.io/badge/edv.arrobo@yavirac.edu.ec-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/Edvwq">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://smartdrill.net">
+    <img src="https://img.shields.io/badge/Visit_Smart_Drill-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Smart Drill Website" />
   </a>
 </div>
