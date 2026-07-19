@@ -60,23 +60,12 @@
 
 ## 💻 Tech Stack & Herramientas
 
+<!-- 
+¡AQUÍ ESTÁ LA MAGIA DE LAS TARJETAS ANIMADAS!
+Debes subir el archivo "tech-cards.svg" a tu repositorio y referenciarlo aquí.
+-->
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <b>Frontend & UI</b><br><br>
-        <img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,angular,tailwind,figma&perline=4" alt="Frontend" />
-      </td>
-      <td align="center" width="33%">
-        <b>Backend & Mobile</b><br><br>
-        <img src="https://skillicons.dev/icons?i=nestjs,nodejs,python,laravel,swift,postgres&perline=4" alt="Backend & Mobile" />
-      </td>
-      <td align="center" width="33%">
-        <b>Hardware & Audio</b><br><br>
-        <img src="https://skillicons.dev/icons?i=apple,linux,ableton,github&perline=4" alt="Tools" />
-      </td>
-    </tr>
-  </table>
+  <img src="tech-cards.svg" alt="Animated Tech Cards" />
 </div>
 
 <br>
@@ -87,7 +76,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edvwq&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&text_color=00FF9D&title_color=ffffff&langs_count=6" alt="Top Languages" />
   <br><br>
   
-  <!-- Contribution Snake Animation (Requested) -->
+  <!-- Contribution Snake Animation -->
   <picture>
     <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg">
   </picture>
