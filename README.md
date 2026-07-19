@@ -33,7 +33,8 @@
 
 ## 🛠 Tech Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,nextjs,nestjs,nodejs,postgres,angular,laravel,python,swift,apple,figma,idea,html,css&perline=10" alt="Tech Stack" />
+  <p><i>Building scalable interfaces & robust hardware solutions.</i></p>
+  <img src="https://skillicons.dev/icons?i=ts,js,nextjs,nestjs,nodejs,postgres,angular,laravel,python,swift,apple,figma,idea,html,css&perline=7" alt="Tech Stack" />
 </div>
 
 <br>
@@ -42,14 +43,14 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center" style="padding: 10px; border: 1px solid #222; border-radius: 10px;">
-        <b>🎬 DIMFLIX</b><br>Next.js Streaming
+      <td align="center" style="padding: 10px; border: 1px solid #222; border-radius: 10px; width: 150px;">
+        <b>🎬 DIMFLIX</b><br><small>Streaming Platform</small>
       </td>
-      <td align="center" style="padding: 10px; border: 1px solid #222; border-radius: 10px;">
-        <b>🎨 THENOLLE</b><br>Angular Portfolio
+      <td align="center" style="padding: 10px; border: 1px solid #222; border-radius: 10px; width: 150px;">
+        <b>🎨 THENOLLE</b><br><small>Portfolio Hub</small>
       </td>
-      <td align="center" style="padding: 10px; border: 1px solid #222; border-radius: 10px;">
-        <b>♻️ UPCYCLING</b><br>De Snack a Estilo
+      <td align="center" style="padding: 10px; border: 1px solid #222; border-radius: 10px; width: 150px;">
+        <b>♻️ UPCYCLING</b><br><small>Eco Initiative</small>
       </td>
     </tr>
   </table>
