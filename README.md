@@ -59,13 +59,26 @@
 <br>
 
 ## 💻 Tech Stack & Herramientas
-
-<!-- 
-¡AQUÍ ESTÁ LA MAGIA DE LAS TARJETAS ANIMADAS!
-Debes subir el archivo "tech-cards.svg" a tu repositorio y referenciarlo aquí.
--->
+<!-- Aquí cargan tus tarjetas animadas -->
 <div align="center">
   <img src="tech-cards.svg" alt="Animated Tech Cards" />
+</div>
+
+<br>
+
+## 🎹 Music Production
+<!-- Aquí carga tu piano animado -->
+<div align="center">
+  <img src="piano.svg" alt="Animated Piano" />
+</div>
+
+<div align="center">
+  <br>
+  <p><i>Escucha uno de mis últimos tracks (Clic en la imagen) 👇</i></p>
+  <!-- Reemplaza el enlace de href con el link real de tu canción en Spotify o SoundCloud -->
+  <a href="https://open.spotify.com/track/TU_CANCION_AQUI">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=TU_USUARIO_DE_SPOTIFY&cover_image=true&theme=novatorem&show_offline=false&background_color=0D1117&interchange=true" alt="Spotify Player" />
+  </a>
 </div>
 
 <br>
@@ -73,9 +86,6 @@ Debes subir el archivo "tech-cards.svg" a tu repositorio y referenciarlo aquí.
 ## 📈 GitHub Activity & Contributions
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edvwq&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&text_color=00FF9D&title_color=ffffff&langs_count=6" alt="Top Languages" />
-  <br><br>
-  
   <!-- Contribution Snake Animation -->
   <picture>
     <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg">
