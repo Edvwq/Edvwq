@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About Me
 
-I am a Software Development student at Instituto Superior Tecnológico Yavirac, currently balancing my academic journey with professional work. My technical background extends beyond code—I am an experienced **IT Technician** specializing in computer and smartphone repairs, component-level hardware diagnostics, and firmware troubleshooting.
+I am a Software Development student at Instituto Superior Tecnológico Yavirac, currently balancing my academic journey with professional work. My technical background extends beyond code—I am an experienced **IT Technician** specializing in computer and smartphone repairs, component-level hardware diagnostics, and firmware troubleshooting. 
 
 When I step away from the keyboard and the workbench, you can find me indulging in my passion for **electronic music**, producing and mastering tracks using digital audio workstations.
 
@@ -18,32 +18,42 @@ When I step away from the keyboard and the workbench, you can find me indulging 
 
 ## 🛠️ Tech Stack & Skills
 
+<div align="center">
+
 ### 💻 Technologies I Use
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,py,nextjs,nestjs,nodejs,postgres,angular,laravel,html&perline=5" alt="Tech Stack" />
+  </a>
 </p>
+
+<br>
 
 ### 📱 Currently Learning
-<p>
-  <img src="https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white" alt="Xcode" />
-  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
-  <img src="https://img.shields.io/badge/KivyMD-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="KivyMD" />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=swift,py,apple&perline=3" alt="Currently Learning" />
+  </a>
+  <br>
+  <!-- Fallback badges for specific tools not in icon pack -->
+  <img src="https://img.shields.io/badge/Xcode-1575F9?style=flat-square&logo=xcode&logoColor=white" alt="Xcode" />
+  <img src="https://img.shields.io/badge/KivyMD-3776AB?style=flat-square&logo=python&logoColor=white" alt="KivyMD" />
 </p>
 
+<br>
+
 ### 🔮 Exploring Next
-<p>
-  <img src="https://img.shields.io/badge/Spline_3D-000000?style=for-the-badge&logo=spline&logoColor=white" alt="Spline 3D" />
-  <img src="https://img.shields.io/badge/Mobile_Architecture-5C2D91?style=for-the-badge&logo=ios&logoColor=white" alt="Mobile Architecture" />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma,idea&perline=2" alt="Exploring Next" />
+  </a>
+  <br>
+  <!-- Fallback badges -->
+  <img src="https://img.shields.io/badge/Spline_3D-000000?style=flat-square&logo=spline&logoColor=white" alt="Spline 3D" />
+  <img src="https://img.shields.io/badge/Mobile_Architecture-5C2D91?style=flat-square&logo=ios&logoColor=white" alt="Mobile Architecture" />
 </p>
+
+</div>
 
 ---
 
